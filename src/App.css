@@ -1,0 +1,27 @@
+.head {
+  bottom: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  position: relative;
+  margin: auto;
+  justify-content: center;
+  align-items: flex-end;
+}
+.p {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  position: relative;
+  margin: auto;
+  justify-content: center;
+  align-items: flex-end;
+  margin-top: 3px;
+  bottom: 8vh;
+}
+.vt {
+  position: relative;
+  z-index: -10;
+  margin-left: 97vh;
+  margin-top: 5vh;
+}

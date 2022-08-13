@@ -1,0 +1,36 @@
+.r {
+  width: 600px;
+  height: 200px;
+  background-color: white;
+  margin-bottom: 500px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  margin: auto;
+  align-items: center;
+  border-top-style: solid;
+}
+.op {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  align-self: flex-start;
+  margin-top: 50px;
+  margin-left: 40px;
+  gap: 20px;
+}
+.but {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+.opp {
+  margin-left: 220px;
+}
